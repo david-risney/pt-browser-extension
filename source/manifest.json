@@ -1,8 +1,8 @@
 {
-	"name": "Awesome Extension",
-	"version": "0.0.0",
-	"description": "An awesome new browser extension",
-	"homepage_url": "https://github.com/fregante/browser-extension-template",
+	"name": "PT Browser Extension",
+	"version": "0.0.1",
+	"description": "PT Browser Extension",
+	"homepage_url": "https://github.com/david-risney/pt-browser-extension",
 	"manifest_version": 3,
 	"minimum_chrome_version": "100",
 	"browser_specific_settings": {
@@ -15,18 +15,13 @@
 		"128": "icon.png"
 	},
 	"permissions": [
-		"storage"
-	],
-	"host_permissions": [
-		"https://github.com/*"
-	],
-	"content_scripts": [
-		{
-			"matches": [ "https://github.com/fregante/browser-extension-template/*" ],
-			"js": [ "content.js" ],
-			"css": [ "content.css" ],
-			"run_at": "document_end"
-		}
+		"background",
+		"bookmarks",
+		"browsingData",
+		"history",
+		"nativeMessaging",
+		"tabs",
+		"topSites"
 	],
 	"options_ui": {
 		"browser_style": true,

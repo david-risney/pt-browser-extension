@@ -1,0 +1,15 @@
+C:\Users\davris\source\repos\pt-browser-extension\PTBENM\PTBENM\bin\Debug\net6.0\PTBENM.exe
+C:\Users\davris\source\repos\pt-browser-extension\PTBENM\PTBENM\bin\Debug\net6.0\PTBENM.deps.json
+C:\Users\davris\source\repos\pt-browser-extension\PTBENM\PTBENM\bin\Debug\net6.0\PTBENM.runtimeconfig.json
+C:\Users\davris\source\repos\pt-browser-extension\PTBENM\PTBENM\bin\Debug\net6.0\PTBENM.dll
+C:\Users\davris\source\repos\pt-browser-extension\PTBENM\PTBENM\bin\Debug\net6.0\PTBENM.pdb
+C:\Users\davris\source\repos\pt-browser-extension\PTBENM\PTBENM\obj\Debug\net6.0\PTBENM.csproj.AssemblyReference.cache
+C:\Users\davris\source\repos\pt-browser-extension\PTBENM\PTBENM\obj\Debug\net6.0\PTBENM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davris\source\repos\pt-browser-extension\PTBENM\PTBENM\obj\Debug\net6.0\PTBENM.AssemblyInfoInputs.cache
+C:\Users\davris\source\repos\pt-browser-extension\PTBENM\PTBENM\obj\Debug\net6.0\PTBENM.AssemblyInfo.cs
+C:\Users\davris\source\repos\pt-browser-extension\PTBENM\PTBENM\obj\Debug\net6.0\PTBENM.csproj.CoreCompileInputs.cache
+C:\Users\davris\source\repos\pt-browser-extension\PTBENM\PTBENM\obj\Debug\net6.0\PTBENM.dll
+C:\Users\davris\source\repos\pt-browser-extension\PTBENM\PTBENM\obj\Debug\net6.0\refint\PTBENM.dll
+C:\Users\davris\source\repos\pt-browser-extension\PTBENM\PTBENM\obj\Debug\net6.0\PTBENM.pdb
+C:\Users\davris\source\repos\pt-browser-extension\PTBENM\PTBENM\obj\Debug\net6.0\PTBENM.genruntimeconfig.cache
+C:\Users\davris\source\repos\pt-browser-extension\PTBENM\PTBENM\obj\Debug\net6.0\ref\PTBENM.dll
